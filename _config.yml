@@ -1,0 +1,14 @@
+layout_spectrum: 0.4459287
+typography_spectrum: 0.1086754
+color:
+  saturation: 0.3995914
+  lightness: 0.870523
+  brandStrength: 0.4544014
+  brandColors:
+    - '#111516'
+    - '#515058'
+    - '#FFFBF8'
+    - '#62C558'
+    - '#FF3E84'
+  rhythmicContrast: 0.5756899
+name: M Studio
